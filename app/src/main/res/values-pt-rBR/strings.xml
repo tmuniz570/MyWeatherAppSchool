@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TempoAppSchool</string>
+    <string name="title_settings">Config.</string>
+    <string name="temperature_unit">Unidade de Temperatura</string>
+    <string name="language">Linguagem</string>
+    <string name="lang_pt">Portugues</string>
+    <string name="lang_en">Ingles</string>
+    <string name="save">SALVAR</string>
+    <string name="search">Buscar</string>
+    <string name="favorite">Favoritos</string>
+</resources>

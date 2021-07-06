@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528426417290",
+    "project_id": "myweatherappschool",
+    "storage_bucket": "myweatherappschool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528426417290:android:9d94db22a446b17d48c173",
+        "android_client_info": {
+          "package_name": "com.tmuniz570.myweatherapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528426417290-713hk0tbhkjbsjt4jv57g9d3ltrts1hh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1AxGnR-c12MJX-xqjBw7eIRKy6GEysP0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528426417290-713hk0tbhkjbsjt4jv57g9d3ltrts1hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
